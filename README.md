@@ -30,6 +30,8 @@ MeptiC provides pharmacists with a full view of patient health records and medic
 
 ## 3. Question and Answering
 MeptiC taps into extensive medical knowledge to offer a safety net against knowledge gaps, increasing efficiency and accuracy.
+<video src="https://user-images.githubusercontent.com/64120343/231561115-22384a46-ab7d-4e63-8f17-008dc8cdc843.mp4"></video>
+
 
 # Technical approach
 ## 1. Reason and Act
