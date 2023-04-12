@@ -36,8 +36,7 @@ MeptiC taps into extensive medical knowledge to offer a safety net against knowl
 # Technical approach
 ## 1. Reason and Act
 Reason and Action is an architecture to mimic how the human brain works, enabling machines to reason and make decisions in a way that is similar to humans
-<video src="https://user-images.githubusercontent.com/64120343/231560918-8e127366-6de9-4e18-8e38-81bbfb7e73ca.mp4"></video>
-
+<video src="https://user-images.githubusercontent.com/64120343/231562553-c320d658-d26e-4c82-bac7-d0a4995fc30b.mp4"></video>
 
 ## 2. Semantic Search
 Meptic uses AHFS as a knowledge base for precise drug information.
@@ -48,3 +47,6 @@ AHFS (American Hospital Formulary Service) is a comprehensive classification sys
 There are 2 main reasons why we chose AHFS as a knowledge base for MeptiC.
 1. In Vietnam, the AHFS has been endorsed by the Ministry of Health as a primary resource for numerous healthcare guidelines and articles, including the Vietnamese National Drug Formulary (VNDF)
 2. following real-life trials, we discovered that while the VNDF does not include several drugs that are commonly used in Vietnamese hospitals, the AHFS contains them all.
+
+### Why verifying prescriptions?
+Despite the presence of only 1 to 3 clinical pharmacists in the pharmacy faculty of Vietnamese hospitals, where hundreds of prescriptions are processed daily, it is imperative for them to thoroughly review the prescriptions to prevent any potential harm to the patients.
