@@ -4,13 +4,12 @@ This is the demo of MeptiC for BusiTech 2023
 MeptiC Copilot is a virtual assistant to prove the potential of AI could enhance the Vietnamese healthcare system.
 ![image](https://user-images.githubusercontent.com/64120343/231550602-9eb14aa0-4273-4e2f-8b25-0623ef112f08.png)
 
-# Reason
+# Reasons
 As a healthcare student, I came face-to-face with the grim realities of an overburdened healthcare system. During my clinical internship, I gained firsthand experience of the challenges that healthcare professionals face on a daily basis. I was surprised to see that even well-trained staff members made mistakes due to the stressful and chaotic nature of the hospital ward. This experience was truly enlightening and helped me to better understand the complexities of the healthcare industry.
 
-# Statistic
+# Statistics
 The healthcare system in Vietnam faces significant challenges due to a shortage of pharmacists, with only 0.83 pharmacists available per 1000 individuals. This shortage has led to severe limitations in staffing and has resulted in an alarming medication error rate of approximately 39%.
 ![image](https://user-images.githubusercontent.com/64120343/231555161-1783575d-703d-4a1a-afab-a640ea8a53ba.png)
-
 
 # Goals
 MeptiC has 2 main goals:
@@ -41,6 +40,9 @@ Reason and Action is an architecture to mimic how the human brain works, enablin
 ## 2. Semantic Search
 Meptic uses AHFS as a knowledge base for precise drug information.
 AHFS (American Hospital Formulary Service) is a comprehensive classification system for drugs and other therapeutic agents used in healthcare. It provides standardized coding and terminology to help healthcare professionals identify and communicate information about medications, including indications, dosages, and potential interactions. AHFS is widely used in the United States and is published by the American Society of Health-System Pharmacists (ASHP).
+
+# Ethical
+MeptiC has obtained "Medical Ethics Approval" from the University of Medicine and Pharmacy located in Ho Chi Minh City.
 
 # FQA
 ### Why AHFS?
