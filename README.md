@@ -24,13 +24,13 @@ MeptiC can instantly cross-check new prescriptions against a patient's records a
 In seconds, it can detect dangerous drug interactions or overdoses, alerting pharmacists to take action before the patient is harmed.
 ![image](https://user-images.githubusercontent.com/64120343/231552700-03636062-4c8c-4f25-a0ca-3adca8827634.png)
 
-## 2. Electronic health record Sumarrization
+## 2. Electronic health record Summarization
 MeptiC provides pharmacists with a full view of patient health records and medications, enabling pharmacists to make safer, more informed decisions, especially for patients on multiple medications.
-![image](https://user-images.githubusercontent.com/64120343/231552906-1c5ff1d4-9856-4182-9774-2e9635b87f56.png)
+![image](https://user-images.githubusercontent.com/64120343/231558649-d1ae98b2-8011-4ab7-9c23-b63e2b0f99ac.png)
 
 ## 3. Question and Answering
 MeptiC taps into extensive medical knowledge to offer a safety net against knowledge gaps, increasing efficiency and accuracy.
-![image](https://user-images.githubusercontent.com/64120343/231553101-025c7d92-999a-47fc-b620-b72fb9e24998.png)
+!
 
 # Technical approach
 ## 1. Reason and Act
