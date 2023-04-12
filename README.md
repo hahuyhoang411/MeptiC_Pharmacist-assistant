@@ -17,10 +17,16 @@ MeptiC has 3 functions:
 MeptiC can instantly cross-check new prescriptions against a patient's records and medical databases.
 In seconds, it can detect dangerous drug interactions or overdoses, alerting pharmacists to take action before the patient is harmed.
 
-Prescription:
-![image](https://user-images.githubusercontent.com/64120343/231551518-9ae366bd-1ff3-4dca-952d-7df0bb1d4a74.png)
-
-Result:
-![image](https://user-images.githubusercontent.com/64120343/231551488-d2211d69-63d8-4511-9de8-194a2d160bbb.png)
-
+<container>
+  <row>
+    <columns small="12" large="5">
+        <img src="https://placeholdit.imgix.net/~text?txtsize=25&txt=266%C3%97500&w=266&h=266">
+        <spacer size="20"></spacer>
+        <img src=![image](https://user-images.githubusercontent.com/64120343/231551518-9ae366bd-1ff3-4dca-952d-7df0bb1d4a74.png)>
+    </columns>
+    <columns small="12" large="7">
+        <img src=![image](https://user-images.githubusercontent.com/64120343/231551488-d2211d69-63d8-4511-9de8-194a2d160bbb.png)>
+    </columns>
+  </row>
+</container>
 ## 2. 
