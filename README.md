@@ -28,7 +28,7 @@ In seconds, it can detect dangerous drug interactions or overdoses, alerting pha
 MeptiC provides pharmacists with a full view of patient health records and medications, enabling pharmacists to make safer, more informed decisions, especially for patients on multiple medications.
 ![image](https://user-images.githubusercontent.com/64120343/231558649-d1ae98b2-8011-4ab7-9c23-b63e2b0f99ac.png)
 
-## 3. Question and Answering
+## 3. Drug Information Retrieval
 MeptiC taps into extensive medical knowledge to offer a safety net against knowledge gaps, increasing efficiency and accuracy.
 <video src="https://user-images.githubusercontent.com/64120343/231561115-22384a46-ab7d-4e63-8f17-008dc8cdc843.mp4"></video>
 
