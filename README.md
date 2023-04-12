@@ -30,12 +30,11 @@ MeptiC provides pharmacists with a full view of patient health records and medic
 
 ## 3. Question and Answering
 MeptiC taps into extensive medical knowledge to offer a safety net against knowledge gaps, increasing efficiency and accuracy.
-!
 
 # Technical approach
 ## 1. Reason and Act
 Reason and Action is an architecture to mimic how the human brain works, enabling machines to reason and make decisions in a way that is similar to humans
-<video src='[your URL here](https://user-images.githubusercontent.com/64120343/231559802-681b57fd-7904-43ad-8cde-b659a0f3a62e.mp4)' width=180/>
+<video src='(https://user-images.githubusercontent.com/64120343/231559802-681b57fd-7904-43ad-8cde-b659a0f3a62e.mp4)' width=180/>
 
 ## 2. Semantic Search
 Meptic uses AHFS as a knowledge base for precise drug information.
