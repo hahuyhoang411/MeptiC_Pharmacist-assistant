@@ -35,7 +35,7 @@ MeptiC taps into extensive medical knowledge to offer a safety net against knowl
 # Technical approach
 ## 1. Reason and Act
 Reason and Action is an architecture to mimic how the human brain works, enabling machines to reason and make decisions in a way that is similar to humans
-<video src="https://user-images.githubusercontent.com/64120343/231562553-c320d658-d26e-4c82-bac7-d0a4995fc30b.mp4"></video>
+<video src="https://user-images.githubusercontent.com/64120343/231564754-7f63d373-2db6-4e91-a431-a2cfbb55935d.mp4"></video>
 
 ## 2. Semantic Search
 Meptic uses AHFS as a knowledge base for precise drug information.
