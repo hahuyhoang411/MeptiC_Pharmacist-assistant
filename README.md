@@ -13,8 +13,8 @@ The healthcare system in Vietnam faces significant challenges due to a shortage 
 
 # Goals
 MeptiC has 2 main goals:
-1. Enhancing patient safety through acurrately verify patients' prescriptions
-2. Supporting pharmacists' informed decision making through summarization of patient health records and medications.
+1. Enhancing patient safety through accurately verifying patients
+2. Supporting pharmacists' informed decision-making through summarization of patient health records and medications.
 
 # Functions
 MeptiC has 3 functions:
