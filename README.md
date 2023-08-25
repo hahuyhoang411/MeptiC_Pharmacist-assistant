@@ -1,11 +1,11 @@
-# MeptiC_Busitech
+# MeptiC
 This is the demo of MeptiC for BusiTech 2023
 
 The MeptiC Copilot, a virtual assistant, serves as a testament to the potential of AI in enhancing the Vietnamese healthcare system, with its aim to provide a comprehensive solution for the various challenges faced by hospitals in Vietnam.
 ![image](https://user-images.githubusercontent.com/64120343/231550602-9eb14aa0-4273-4e2f-8b25-0623ef112f08.png)
 
 # Reasons
-As a healthcare student, I came face-to-face with the grim realities of an overburdened healthcare system. During my clinical internship, I gained firsthand experience of the challenges that healthcare professionals face on a daily basis. I was surprised to see that even well-trained staff members made mistakes due to the stressful and chaotic nature of the hospital ward. This experience was truly enlightening and helped me to better understand the complexities of the healthcare industry.
+As a healthcare student, I came face-to-face with the grim realities of an overburdened healthcare system. During my clinical internship, I gained firsthand experience of the challenges that healthcare professionals face daily I was surprised to see that even well-trained staff members made mistakes due to the stressful and chaotic nature of the hospital ward. This experience was truly enlightening and helped me to better understand the complexities of the healthcare industry.
 
 # Statistics
 The healthcare system in Vietnam faces significant challenges due to a shortage of pharmacists, with only 0.83 pharmacists available per 1000 individuals. This shortage has led to severe limitations in staffing and has resulted in an alarming medication error rate of approximately 39%.
@@ -48,7 +48,7 @@ MeptiC has obtained "Medical Ethics Approval" from the University of Medicine an
 ### Why AHFS?
 There are 2 main reasons why we chose AHFS as a knowledge base for MeptiC.
 1. In Vietnam, the AHFS has been endorsed by the Ministry of Health as a primary resource for numerous healthcare guidelines and articles, including the Vietnamese National Drug Formulary (VNDF)
-2. following real-life trials, we discovered that while the VNDF does not include several drugs that are commonly used in Vietnamese hospitals, the AHFS contains them all.
+2. Following real-life trials, we discovered that while the VNDF does not include several drugs that are commonly used in Vietnamese hospitals, the AHFS contains them all.
 
-### Why verifying prescriptions?
+### Why verify prescriptions?
 Despite the presence of only 1 to 3 clinical pharmacists in the pharmacy faculty of Vietnamese hospitals, where hundreds of prescriptions are processed daily, it is imperative for them to thoroughly review the prescriptions to prevent any potential harm to the patients.
