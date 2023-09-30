@@ -1,7 +1,7 @@
 # MeptiC
-This is the demo of MeptiC for BusiTech 2023
-
+This is the demo of MeptiC for BusiTech 2023.
 The MeptiC Copilot, a virtual assistant, serves as a testament to the potential of AI in enhancing the Vietnamese healthcare system, with its aim to provide a comprehensive solution for the various challenges faced by hospitals in Vietnam.
+
 ![image](https://user-images.githubusercontent.com/64120343/231550602-9eb14aa0-4273-4e2f-8b25-0623ef112f08.png)
 
 # Reasons
